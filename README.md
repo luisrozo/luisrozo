@@ -11,7 +11,7 @@
 
 I am a Software Engineer who was born in the most breathtaking city around the world, **Cádiz**. I have been learning everyday at *intelygenz* (Madrid-based) since July 2019. 
 
-Nowadys, my tech strengths are:
+Nowadays, my tech strengths are:
 
 ![Java](https://img.shields.io/badge/-java-D40000?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
@@ -25,7 +25,7 @@ Nowadys, my tech strengths are:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
-In addition to this, I am very interested in learn the following ones:
+In addition to this, I am very interested in learning the following ones:
 
 ![Ionic](https://img.shields.io/badge/-ionic-4A8AF9?style=for-the-badge&logo=ionic&logoColor=white)
 ![Swift](https://img.shields.io/badge/-swift-F52F22?style=for-the-badge&logo=swift&logoColor=white)
