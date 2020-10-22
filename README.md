@@ -9,7 +9,7 @@
 
 ### 🖥 About me 
 
-I am a Software Engineer who was born in the most breathtaking city around the world, **Cádiz**. I am learning everyday at *intelygenz* (Sevilla-based).
+I am a Software Engineer who was born in the most breathtaking city around the world, **Cádiz**. I am learning everyday at *Emergya* (Sevilla-based).
 
 Nowadays, my tech strengths are:
 
