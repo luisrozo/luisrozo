@@ -1,7 +1,7 @@
 <h2> I'm Luis Rozo! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" width="230">
 
-<p><em>Software Enginner at <a href="https://intelygenz.com/">intelygenz</a></em></p>
+<p><em>Software Enginner at <a href="https://www.emergya.com/es">Emergya</a></em></p>
 
 [![Twitter: LuisRozo96](https://img.shields.io/twitter/follow/LuisRozo96?color=yellow&style=for-the-badge&logo=twitter)](https://twitter.com/LuisRozo96)
 [![Linkedin: Luis Gonzaga Rozo Bueno](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-gonzaga-rozo-bueno-0299b7166/)](https://www.linkedin.com/in/luis-gonzaga-rozo-bueno-0299b7166/)
@@ -9,10 +9,13 @@
 
 ### 🖥 About me 
 
-I am a Software Engineer who was born in the most breathtaking city around the world, **Cádiz**. I have been learning everyday at *intelygenz* (Madrid-based) since July 2019. 
+I am a Software Engineer who was born in the most breathtaking city around the world, **Cádiz**. I am learning everyday at *intelygenz* (Sevilla-based).
 
 Nowadays, my tech strengths are:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-D40000?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Spring](https://img.shields.io/badge/-spring-68BD45?style=for-the-badge&logo=spring&logoColor=white)
@@ -21,15 +24,12 @@ Nowadays, my tech strengths are:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-00A818?style=for-the-badge&logo=cucumber)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
 In addition to this, I am very interested in learning the following ones:
 
 ![Ionic](https://img.shields.io/badge/-ionic-4A8AF9?style=for-the-badge&logo=ionic&logoColor=white)
 ![Swift](https://img.shields.io/badge/-swift-F52F22?style=for-the-badge&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ```gherkin
 Scenario Outline: Check users profile on Github
