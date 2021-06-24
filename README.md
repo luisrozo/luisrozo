@@ -13,6 +13,7 @@ I am a Software Engineer who was born in the most breathtaking city around the w
 
 Nowadays, my tech strengths are:
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
@@ -25,6 +26,8 @@ Nowadays, my tech strengths are:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-00A818?style=for-the-badge&logo=cucumber)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+
 
 In addition to this, I am very interested in learning the following ones:
 
